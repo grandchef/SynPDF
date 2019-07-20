@@ -39,6 +39,7 @@ contains
   SynLZ in 'SynLZ.pas',
   SynPdf in 'SynPdf.pas',
   SynZip in 'SynZip.pas',
-  SynZipFiles in 'SynZipFiles.pas';
+  SynZipFiles in 'SynZipFiles.pas',
+  SynTable in 'SynTable.pas';
 
 end.
